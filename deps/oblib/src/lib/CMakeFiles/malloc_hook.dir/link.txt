@@ -1,0 +1,2 @@
+/workspace/oceanbase/deps/3rd/usr/local/oceanbase/devtools/bin/llvm-ar qc libmalloc_hook.a CMakeFiles/malloc_hook.dir/alloc/malloc_hook.cpp.o
+/workspace/oceanbase/deps/3rd/usr/local/oceanbase/devtools/bin/llvm-ranlib libmalloc_hook.a

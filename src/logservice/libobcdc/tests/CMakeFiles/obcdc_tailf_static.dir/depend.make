@@ -1,0 +1,2 @@
+# Empty dependencies file for obcdc_tailf_static.
+# This may be replaced when dependencies are built.

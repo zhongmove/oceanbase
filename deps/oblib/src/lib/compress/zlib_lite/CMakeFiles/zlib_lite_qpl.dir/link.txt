@@ -1,0 +1,2 @@
+/workspace/oceanbase/deps/3rd/usr/local/oceanbase/devtools/bin/llvm-ar qc libzlib_lite_qpl.a CMakeFiles/zlib_lite_qpl.dir/codec_deflate_qpl.cpp.o
+/workspace/oceanbase/deps/3rd/usr/local/oceanbase/devtools/bin/llvm-ranlib libzlib_lite_qpl.a

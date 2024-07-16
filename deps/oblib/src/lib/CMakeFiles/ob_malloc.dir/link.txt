@@ -1,0 +1,2 @@
+/workspace/oceanbase/deps/3rd/usr/local/oceanbase/devtools/bin/llvm-ar qc libob_malloc.a CMakeFiles/ob_malloc_object.dir/Unity/unity_ob_malloc_object_list_common_alloc/0_cxx.cxx.o CMakeFiles/ob_malloc_object.dir/Unity/unity_ob_malloc_object_list_common_alloc/1_cxx.cxx.o
+/workspace/oceanbase/deps/3rd/usr/local/oceanbase/devtools/bin/llvm-ranlib libob_malloc.a

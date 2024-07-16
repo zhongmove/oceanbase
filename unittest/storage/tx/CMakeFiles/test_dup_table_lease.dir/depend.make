@@ -1,0 +1,2 @@
+# Empty dependencies file for test_dup_table_lease.
+# This may be replaced when dependencies are built.

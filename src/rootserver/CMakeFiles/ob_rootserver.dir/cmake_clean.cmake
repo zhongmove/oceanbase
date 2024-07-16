@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_backup/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_backup/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_balance/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_balance/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_common/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_common/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_common/1_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_common/1_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_common/2_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_common/2_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_ddl_task/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_ddl_task/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_freeze/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_freeze/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_mview/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_mview/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_parallel_ddl/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_parallel_ddl/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_restore/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_restore/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_tenant_snapshot/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_tenant_snapshot/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_virtual_table/0_cxx.cxx.o"
+  "CMakeFiles/ob_rootserver.dir/Unity/unity_ob_rootserver_virtual_table/0_cxx.cxx.o.d"
+  "CMakeFiles/ob_rootserver.dir/ddl_task/ob_ddl_redefinition_task.cpp.o"
+  "CMakeFiles/ob_rootserver.dir/ddl_task/ob_ddl_redefinition_task.cpp.o.d"
+  "CMakeFiles/ob_rootserver.dir/ob_ddl_service.cpp.o"
+  "CMakeFiles/ob_rootserver.dir/ob_ddl_service.cpp.o.d"
+  "CMakeFiles/ob_rootserver.dir/ob_heartbeat_service.cpp.o"
+  "CMakeFiles/ob_rootserver.dir/ob_heartbeat_service.cpp.o.d"
+  "CMakeFiles/ob_rootserver.dir/ob_root_service.cpp.o"
+  "CMakeFiles/ob_rootserver.dir/ob_root_service.cpp.o.d"
+  "CMakeFiles/ob_rootserver.dir/ob_unit_manager.cpp.o"
+  "CMakeFiles/ob_rootserver.dir/ob_unit_manager.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ob_rootserver.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

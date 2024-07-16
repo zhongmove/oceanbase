@@ -1,0 +1,2 @@
+# Empty dependencies file for test_ob_map_queue_thread.
+# This may be replaced when dependencies are built.
